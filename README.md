@@ -87,7 +87,4 @@ Edit
 
 ---
 
-You can **copy the entire file above** and paste it directly into your `README.md` file on GitHub — no splitting needed.
 
-Let me know if you want to include Python scaffolding (`run_inference.py`, etc.) or a `requirements.txt`.
-```
